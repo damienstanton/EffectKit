@@ -1,5 +1,7 @@
 # EffectKit
 
+[![Swift](https://github.com/damienstanton/EffectKit/actions/workflows/swift.yml/badge.svg)](https://github.com/damienstanton/EffectKit/actions/workflows/swift.yml)
+
 One shot algebraic effects for Swift
 
 # Status
